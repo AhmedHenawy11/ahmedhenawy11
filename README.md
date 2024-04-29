@@ -13,9 +13,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  </a>  </a>  </a
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhenawy11&show_icons=true&locale=en&layout=compact" alt="ahmedhenawy11" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhenawy11&show_icons=true&locale=en" alt="ahmedhenawy11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhenawy11&" alt="ahmedhenawy11" /></p>
 
