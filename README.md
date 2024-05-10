@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Ahmed Henawy <h2 align="center">A passionate software developer from Egypt</h2>  </h1> 
+<h1 align="center">Hi 👋, I'm Ahmed Henawy <br> A passionate software developer from Egypt</h1> 
 
 
 
