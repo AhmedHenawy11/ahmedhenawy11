@@ -1,7 +1,10 @@
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Ahmed Henawy</h1>  <h2 align="center">A passionate fullstack software engineer from Egypt
+<div>
+  <h1 align="center">Hi 👋, I'm Ahmed Henawy</h1>  <h2 align="center">A passionate fullstack software engineer from Egypt
 </h2>
+</div>
+
 
 
 
