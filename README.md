@@ -1,7 +1,7 @@
 <div>
-<h1 style="color:red">💫 About Me:</h1>
+<h1>💫 About Me:</h1>
 
-<h2>Hi 👋, I'm Ahmed Henawy a passionate fullstack software developer from egypt.</h2>
+<h2>Hi 👋, I'm <strong>Ahmed Henawy</strong> a passionate fullstack software developer from egypt.</h2>
 </div>
 
 
