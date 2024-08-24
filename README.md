@@ -1,7 +1,7 @@
 
 <h1 align="left"><strong> Hi , I'm Ahmed Henawy</strong></h1>
   
-<li>Passionate software developer from egypt</li> <li>Focusing more on backend development</li> <li>Applying my business skills in crafting high quality software </li> <li>Love to drink coffee while coding.</li> <li>For the current time i am learning nodejs and react and more ...</li>
+<li>Passionate software developer from egypt.</li> <li> I love to drink coffee while coding.</li> <li>Focusing more on backend development.</li> <li>Applying my business skills in crafting high quality software. </li>  <li>For the current time i am learning nodejs and react and more...  .</li>
 
 
 
