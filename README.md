@@ -1,5 +1,5 @@
 <div>
-<h2 align="left"> Hi , I'm <strong>Ahmed Henawy</strong> a passionate fullstack software developer from egypt.</h2>
+<h1 align="left"> Hi ,<br> I'm <strong>Ahmed Henawy</strong> a passionate fullstack software developer from egypt.</h1>
 
 
 </div>
