@@ -1,7 +1,7 @@
 <div>
-<h1 align="left"> About Me:</h1>
+<h1 align="left"> About Me:<br> Hi , I'm <strong>Ahmed Henawy</strong> a passionate fullstack software developer from egypt.</h1>
 
-<h2>Hi , I'm <strong>Ahmed Henawy</strong> a passionate fullstack software developer from egypt.</h2>
+
 </div>
 
 
