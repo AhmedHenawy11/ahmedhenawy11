@@ -1,5 +1,5 @@
 <div>
-<h1 align="left"><strong> Hi , I'm Ahmed Henawy</strong><br><br> <li>Passionate software developer from egypt</li> <li>Focusing on backend development</li> <li>Applying my business development skills in crafting  high quality software </li> <li>Love coffee</li></h1>
+<h1 align="left"><strong> Hi , I'm Ahmed Henawy</strong><br><br> <li>Passionate software developer from egypt</li> <li>Focusing on backend development</li> <li>Applying my business skills in crafting high quality software </li> <li>Love coffee</li></h1>
 
 
 </div>
