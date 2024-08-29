@@ -20,8 +20,8 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" height="250" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="350" alt="stats graph"  />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" height="350" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
