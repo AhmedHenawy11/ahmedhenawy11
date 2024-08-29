@@ -20,9 +20,9 @@
   <tr>
     <td width="100%" align="center" height="auto">
       <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-           alt="stats graph"  />
+           alt="stats graph"   width="100%" />
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-           alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" 
+            width="100%" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" 
             /> 
     </td>
 
