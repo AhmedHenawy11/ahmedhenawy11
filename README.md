@@ -18,14 +18,14 @@
   <!--- stats (start) -->
 <div align="left" style=" display: flex; flex-direction: row; ">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-           alt="stats graph"   width="49%" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" width="40%"/>
+           alt="stats graph"   width="48.5%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" width="51.5%"/>
 </div>
 
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
+<div align=left width="auto>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AhmedHenawy11&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
@@ -42,13 +42,6 @@
 
 
 
-
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHenawy11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
- -->
-<br/>
 
 
 <h1 align="left">💻 Tech Stack:</h1>
