@@ -16,7 +16,7 @@
 <h1 align="left">📊 GitHub Stats:</h1>
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
+<table align="left" border="none >
 <tr border="none">
 <td width="50%" align="center">
   
@@ -25,10 +25,10 @@
 </td>
 
 <td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedHenawy11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="400" style="width: 95%; max-width: none;" />
+</td>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedHenawy11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+
 </tr>
 </table>
 <!--- stats (end) -->
