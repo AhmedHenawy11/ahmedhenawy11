@@ -16,7 +16,7 @@
 <h1 align="left">📊 GitHub Stats:</h1>
 <p align="center">
   <!--- stats (start) -->
-<table align="left" width="100%" border="none">
+<table align="left" width="100%" height="400" border="none">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
