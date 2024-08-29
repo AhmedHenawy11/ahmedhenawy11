@@ -16,21 +16,20 @@
 <h1 align="left">📊 GitHub Stats:</h1>
 <p align="center">
   <!--- stats (start) -->
-<table align="left"  >
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="1000" alt="stats graph"  />
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AhmedHenawy11&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="400" style="width: 95%; max-width: none;" />
-</td>
+<table align="left" width="100%" border="none">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
+           alt="stats graph" style="width:98%; height:auto;" />
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+           alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false" 
+           style="width:98%; height:auto;" /> 
+    </td>
 
 
-</tr>
+  </tr>
 </table>
+
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
