@@ -16,7 +16,7 @@
 <h1 align="left">📊 GitHub Stats:</h1>
 <p align="center">
   <!--- stats (start) -->
-<table align="left" border="none >
+<table align="left"  >
 <tr border="none">
 <td width="50%" align="center">
   
