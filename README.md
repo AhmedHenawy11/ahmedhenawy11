@@ -18,7 +18,7 @@
   <!--- stats (start) -->
 <table align="left" width="100%" height="auto" >
   <tr>
-    <td width="50%" align="center" height="auto">
+    <td width="100%" align="center" height="auto">
       <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
            alt="stats graph"  />
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
