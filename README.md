@@ -19,7 +19,7 @@
   
 <div align="left" style=" display: flex; flex-direction: row;  height="auto">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedHenawy11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-           alt="stats graph"   width="100%" />
+           alt="stats graph"   width="97%" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHenawy11&theme=dark&hide_border=false"  width="100%"/>
 </div>
 
